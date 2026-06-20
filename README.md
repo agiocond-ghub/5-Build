@@ -8,4 +8,4 @@ Pages:
 -Workshops (workshops.html)
 -Collaborations (collaborations.html)
 
-Published site: 
+Published site: https://agiocond-ghub.github.io/5-Build/index.html
